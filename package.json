@@ -1,0 +1,23 @@
+{
+  "name": "finding-glootie",
+  "version": "1.0.0",
+  "description": "Bu script glootie'yi bulamaz, fakat belki kalbini [çalabilir](https://www.youtube.com/watch?v=C59LOeIooWo).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunererd/finding-glootie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gunererd/finding-glootie/issues"
+  },
+  "homepage": "https://github.com/gunererd/finding-glootie#readme",
+  "dependencies": {
+    "puppeteer": "^2.0.0",
+    "request": "^2.88.0"
+  }
+}
